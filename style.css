@@ -1,0 +1,12 @@
+
+.square {
+	margin: 15px;
+	padding: 5px;
+}
+.wordlist {
+	float: left;
+	margin: 20px;
+}
+body{
+	font-size: 25px;
+}
